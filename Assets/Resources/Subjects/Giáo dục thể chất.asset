@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Gi\xE1o d\u1EE5c th\u1EC3 ch\u1EA5t"
+  m_EditorClassIdentifier: 
+  subjectName: "Th\u1EC3 ch\u1EA5t"
+  id: 32
+  description: "R\xE8n luy\u1EC7n s\u1EE9c kh\u1ECFe, k\u1EF9 n\u0103ng v\u1EADn
+    \u0111\u1ED9ng v\xE0 tinh th\u1EA7n \u0111\u1ED3ng \u0111\u1ED9i th\xF4ng qua
+    c\xE1c ho\u1EA1t \u0111\u1ED9ng th\u1EC3 thao."
+  roomID: 104
+  image: {fileID: 2133272498496995516, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

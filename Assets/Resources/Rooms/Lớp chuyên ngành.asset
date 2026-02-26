@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6791efaea08f5bf4ca40f2648be39557, type: 3}
+  m_Name: "L\u1EDBp chuy\xEAn ng\xE0nh"
+  m_EditorClassIdentifier: 
+  roomID: 105
+  roomName: "L\u1EDBp chuy\xEAn ng\xE0nh"
+  description: 
+  maxLevel: 60
+  maxSeat: 16
+  maxSubject: 10
+  unlockCost: 3000
+  unlockCondition: 350
+  upgradeCurve: {fileID: 11400000, guid: 9cb300ace8036c44abdde86157241caa, type: 2}
+  capacityCurve: {fileID: 11400000, guid: 14ad119b5db9516448bfa927b1026e9b, type: 2}
+  DefaultTeacherID: 5

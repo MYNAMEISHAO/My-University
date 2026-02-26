@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d04d374ab6e71a44b01774f703271e0, type: 3}
+  m_Name: TeacherConfig_Math
+  m_EditorClassIdentifier: 
+  teacherID: 2
+  teacherName: Math
+  Description: Day gioi
+  prefabModel: {fileID: 4746209041266889736, guid: bfeb89c4b5cfa2f4f86481b5c7714523, type: 3}
+  TeacherSprite: {fileID: 4440353514750019237, guid: 63f0b2df17e798047b82317652430f7f, type: 3}
+  allDirectionSprites:
+  - {fileID: -5055897080092931512, guid: 63f0b2df17e798047b82317652430f7f, type: 3}
+  - {fileID: 4187577688158176072, guid: 63f0b2df17e798047b82317652430f7f, type: 3}
+  - {fileID: 4440353514750019237, guid: 63f0b2df17e798047b82317652430f7f, type: 3}
+  - {fileID: -1295497365, guid: 63f0b2df17e798047b82317652430f7f, type: 3}
+  upgradeStats: {fileID: 11400000, guid: 69bff73d53cc90b40a9d36284b8fe98d, type: 2}
+  upgradeLevels:
+  - targetLevel: 2
+    requiredItems:
+    - itemID: Shop_Item_2
+      amount: 2
+  - targetLevel: 3
+    requiredItems:
+    - itemID: Shop_Item_3
+      amount: 1
+  - targetLevel: 4
+    requiredItems:
+    - itemID: Shop_Item_4
+      amount: 1
+  - targetLevel: 5
+    requiredItems:
+    - itemID: Shop_Item_2
+      amount: 1
+    - itemID: Shop_Item_3
+      amount: 1
+  initialLevel: 1
+  isInitiallyUnlocked: 0
+  unlockFame: 200
+  unlockCost: 1000
+  baseIncome: 200

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Tr\xED tu\u1EC7 nh\xE2n t\u1EA1o"
+  m_EditorClassIdentifier: 
+  subjectName: "Tr\xED tu\u1EC7 nh\xE2n t\u1EA1o"
+  id: "Tr\xEDtu\u1EC7nh\xE2nt\u1EA1o"
+  description: "Nghi\xEAn c\u1EE9u c\xE1c thu\u1EADt to\xE1n gi\xFAp m\xE1y t\xEDnh
+    c\xF3 kh\u1EA3 n\u0103ng h\u1ECDc t\u1EADp v\xE0 \u0111\u01B0a ra quy\u1EBFt
+    \u0111\u1ECBnh th\xF4ng minh."
+  roomID: 
+  image: {fileID: 8431772128150884956, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

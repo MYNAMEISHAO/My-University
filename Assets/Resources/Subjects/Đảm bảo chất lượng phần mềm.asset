@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng ph\u1EA7n m\u1EC1m"
+  m_EditorClassIdentifier: 
+  subjectName: "\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng ph\u1EA7n m\u1EC1m"
+  id: "\u0110\u1EA3mb\u1EA3och\u1EA5tl\u01B0\u1EE3ngph\u1EA7nm\u1EC1m"
+  description: "Quy tr\xECnh ki\u1EC3m th\u1EED (Testing) v\xE0 ki\u1EC3m so\xE1t
+    \u0111\u1EC3 \u0111\u1EA3m b\u1EA3o ph\u1EA7n m\u1EC1m ho\u1EA1t \u0111\u1ED9ng
+    \u1ED5n \u0111\u1ECBnh, kh\xF4ng l\u1ED7i."
+  roomID: 
+  image: {fileID: -95518875591671506, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

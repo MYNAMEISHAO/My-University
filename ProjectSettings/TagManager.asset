@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Prop
+  - Floor
+  - Wall
+  - NPC
+  - Top
+  - Chair
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3539774451
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3710920279
+    locked: 0
+  - name: Wall
+    uniqueID: 403176371
+    locked: 0
+  - name: Prop
+    uniqueID: 3740259223
+    locked: 0
+  - name: NPC
+    uniqueID: 675229025
+    locked: 0
+  - name: Top
+    uniqueID: 2193314813
+    locked: 0
+  - name: UI
+    uniqueID: 1533343097
+    locked: 0
+  m_RenderingLayers:
+  - Default

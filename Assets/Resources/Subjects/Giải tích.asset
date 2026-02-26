@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Gi\u1EA3i t\xEDch"
+  m_EditorClassIdentifier: 
+  subjectName: "Gi\u1EA3i t\xEDch"
+  id: 06
+  description: "Cung c\u1EA5p c\xE1c ki\u1EBFn th\u1EE9c n\u1EC1n t\u1EA3ng v\u1EC1
+    gi\u1EDBi h\u1EA1n, \u0111\u1EA1o h\xE0m, vi ph\xE2n v\xE0 t\xEDch ph\xE2n c\u1EE7a
+    h\xE0m m\u1ED9t bi\u1EBFn v\xE0 nhi\u1EC1u bi\u1EBFn. \u0110\xE2y l\xE0 c\xF4ng
+    c\u1EE5 to\xE1n h\u1ECDc quan tr\u1ECDng \u0111\u1EC3 t\u1ED1i \u01B0u h\xF3a
+    thu\u1EADt to\xE1n v\xE0 x\u1EED l\xFD t\xEDn hi\u1EC7u trong k\u1EF9 thu\u1EADt."
+  roomID: 101
+  image: {fileID: -5775758297512027555, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

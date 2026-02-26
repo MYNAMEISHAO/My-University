@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "C\u1EA5u tr\xFAc d\u1EEF li\u1EC7u v\xE0 Gi\u1EA3i thu\u1EADt"
+  m_EditorClassIdentifier: 
+  subjectName: "C\u1EA5u tr\xFAc d\u1EEF li\u1EC7u v\xE0 Gi\u1EA3i thu\u1EADt"
+  id: "C\u1EA5utr\xFAcd\u1EEFli\u1EC7uv\xE0Gi\u1EA3ithu\u1EADt"
+  description: "Nghi\xEAn c\u1EE9u c\xE1c ph\u01B0\u01A1ng ph\xE1p l\u01B0u tr\u1EEF,
+    t\u1ED5 ch\u1EE9c d\u1EEF li\u1EC7u v\xE0 c\xE1c thu\u1EADt to\xE1n t\u1ED1i
+    \u01B0u \u0111\u1EC3 x\u1EED l\xFD d\u1EEF li\u1EC7u hi\u1EC7u qu\u1EA3."
+  roomID: 
+  image: {fileID: 7244088574319584740, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

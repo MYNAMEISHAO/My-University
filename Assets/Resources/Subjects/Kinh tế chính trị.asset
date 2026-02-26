@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Kinh t\u1EBF ch\xEDnh tr\u1ECB"
+  m_EditorClassIdentifier: 
+  subjectName: "Kinh t\u1EBF ch\xEDnh tr\u1ECB"
+  id: 11
+  description: "Nghi\xEAn c\u1EE9u c\xE1c quan h\u1EC7 s\u1EA3n xu\u1EA5t v\xE0 trao
+    \u0111\u1ED5i trong ph\u01B0\u01A1ng th\u1EE9c s\u1EA3n xu\u1EA5t m\xE0 c\xE1c
+    quan h\u1EC7 \u0111\xF3 v\u1EADn \u0111\u1ED9ng."
+  roomID: 102
+  image: {fileID: 4844452938019889010, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

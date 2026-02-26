@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: bc48c6a8ceccd8d4f8d978d3625893d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2200444290416187004
+    second: shelves-pixilart_0
+  - first:
+      213: 489002691484146
+    second: shelves-pixilart_1
+  - first:
+      213: 4087946502937288363
+    second: shelves-pixilart_2
+  - first:
+      213: 5935397971278106213
+    second: shelves-pixilart_3
+  - first:
+      213: -5709192092625375790
+    second: shelves-pixilart_4
+  - first:
+      213: -1541166989668420706
+    second: shelves-pixilart_5
+  - first:
+      213: -2711718304905874026
+    second: shelves-pixilart_6
+  - first:
+      213: -67171929140212612
+    second: shelves-pixilart_7
+  - first:
+      213: 4245670889038787553
+    second: shelves-pixilart_8
+  - first:
+      213: 7374090565804474790
+    second: shelves-pixilart_9
+  - first:
+      213: 7866484387441398595
+    second: shelves-pixilart_10
+  - first:
+      213: 2092580493839655914
+    second: shelves-pixilart_11
+  - first:
+      213: -4653484455952045812
+    second: shelves-pixilart_12
+  - first:
+      213: -4505529244633230272
+    second: shelves-pixilart_13
+  - first:
+      213: 2192563003122389638
+    second: shelves-pixilart_14
+  - first:
+      213: -5851198816022965448
+    second: shelves-pixilart_15
+  - first:
+      213: 7623143947511004593
+    second: shelves-pixilart_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shelves-pixilart_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e4b983937671e0800000000000000
+      internalID: -2200444290416187004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 170
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f958bfcebcb10000800000000000000
+      internalID: 489002691484146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 44
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae90608fad4bb830800000000000000
+      internalID: 4087946502937288363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 53
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e0b9ef105ce5250800000000000000
+      internalID: 5935397971278106213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 53
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd68945a00e4c0b0800000000000000
+      internalID: -5709192092625375790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 53
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937141d9ccac9ae0800000000000000
+      internalID: -1541166989668420706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953929a19a0e5ad0800000000000000
+      internalID: -2711718304905874026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c48b08c7b511ff0800000000000000
+      internalID: -67171929140212612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3bf56dd27abea30800000000000000
+      internalID: 4245670889038787553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c55ccc48065660800000000000000
+      internalID: 7374090565804474790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d9983fdd5b2d60800000000000000
+      internalID: 7866484387441398595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae369374fd65a0d10800000000000000
+      internalID: 2092580493839655914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c092d23ea808b6fb0800000000000000
+      internalID: -4653484455952045812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449088f5052971c0800000000000000
+      internalID: -4505529244633230272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68216c44f6c8d6e10800000000000000
+      internalID: 2192563003122389638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d3c48dad5ccea0800000000000000
+      internalID: -5851198816022965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdff07f709dac960800000000000000
+      internalID: 7623143947511004593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelves-pixilart_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cef5daf28069fe42924d7d73aca0060
+      internalID: 1708736638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9f845fa98ea82149b7a904f501c67a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shelves-pixilart_0: -2200444290416187004
+      shelves-pixilart_1: 489002691484146
+      shelves-pixilart_10: 7866484387441398595
+      shelves-pixilart_11: 2092580493839655914
+      shelves-pixilart_12: -4653484455952045812
+      shelves-pixilart_13: -4505529244633230272
+      shelves-pixilart_14: 2192563003122389638
+      shelves-pixilart_15: -5851198816022965448
+      shelves-pixilart_16: 7623143947511004593
+      shelves-pixilart_17: 1708736638
+      shelves-pixilart_2: 4087946502937288363
+      shelves-pixilart_3: 5935397971278106213
+      shelves-pixilart_4: -5709192092625375790
+      shelves-pixilart_5: -1541166989668420706
+      shelves-pixilart_6: -2711718304905874026
+      shelves-pixilart_7: -67171929140212612
+      shelves-pixilart_8: 4245670889038787553
+      shelves-pixilart_9: 7374090565804474790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "L\u1EADp tr\xECnh C  C++"
+  m_EditorClassIdentifier: 
+  subjectName: "L\u1EADp tr\xECnh C / C++"
+  id: 21
+  description: "Ng\xF4n ng\u1EEF l\u1EADp tr\xECnh n\u1EC1n t\u1EA3ng gi\xFAp hi\u1EC3u
+    s\xE2u v\u1EC1 qu\u1EA3n l\xFD b\u1ED9 nh\u1EDB v\xE0 c\u1EA5u tr\xFAc d\u1EEF
+    li\u1EC7u c\u01A1 b\u1EA3n."
+  roomID: 103
+  image: {fileID: -7499483339124585383, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a05023493348bf43a65a3cf258df2a9, type: 3}
+  m_Name: SpawnerConfig
+  m_EditorClassIdentifier: 
+  spawnerID: StudentSpawner
+  npcPrefab: {fileID: 444032045777328645, guid: d6434563f65a0ff46aa84bbfe53e6303, type: 3}
+  maxLevel: 10
+  upgradeConfig: {fileID: 11400000, guid: 68b6afc3a69b10c4caaa8097edd1a98f, type: 2}

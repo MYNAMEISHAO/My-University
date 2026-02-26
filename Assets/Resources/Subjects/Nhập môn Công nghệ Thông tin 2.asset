@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Nh\u1EADp m\xF4n C\xF4ng ngh\u1EC7 Th\xF4ng tin 2"
+  m_EditorClassIdentifier: 
+  subjectName: "Ki\u1EBFn tr\xFAc m\xE1y t\xEDnh"
+  id: "Nh\u1EADpm\xF4nC\xF4ngngh\u1EC7Th\xF4ngtin2"
+  description: 
+  image: {fileID: -5976183495208961363, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  condition: 0
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

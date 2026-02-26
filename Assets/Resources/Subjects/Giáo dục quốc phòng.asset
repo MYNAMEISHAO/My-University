@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31d52fed97892e4fa1f60a1d4a7bc69, type: 3}
+  m_Name: "Gi\xE1o d\u1EE5c qu\u1ED1c ph\xF2ng"
+  m_EditorClassIdentifier: 
+  subjectName: "Gi\xE1o d\u1EE5c qu\xF3c ph\xF2ng"
+  id: 31
+  description: "Trang b\u1ECB ki\u1EBFn th\u1EE9c c\u01A1 b\u1EA3n v\u1EC1 n\u1EC1n
+    qu\u1ED1c ph\xF2ng to\xE0n d\xE2n, an ninh nh\xE2n d\xE2n v\xE0 k\u1EF9 n\u0103ng
+    qu\xE2n s\u1EF1 ph\u1ED5 th\xF4ng."
+  roomID: 104
+  image: {fileID: 5749084434699422419, guid: 77c41c4e5aec9e442b39b4e3f48ab7e0, type: 3}
+  upgradeCurve: {fileID: 11400000, guid: def8a8e372a1b884896b80a4d9de1f86, type: 2}

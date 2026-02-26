@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ae226717dcda245a7de2cf8b7db0f1, type: 3}
+  m_Name: ShopItem-2
+  m_EditorClassIdentifier: 
+  Id: Shop_Item_2
+  Icon: {fileID: -9166153570457278953, guid: ade63944449f55c4c901f295be432f9a, type: 3}
+  itemName: "S\xE1ch hu\u1EA5n luy\u1EC7n"
+  itemDescription: "Nguy\xEAn li\u1EC7u t\u1EADp hu\u1EA5n gi\xE1o vi\xEAn"
+  basePrice: 2
+  tradePrice: 50
+  Category: 2
+  MinQuantityRange: 1
+  MaxQuantityRange: 3

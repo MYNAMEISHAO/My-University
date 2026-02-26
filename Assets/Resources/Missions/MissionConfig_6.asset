@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ff14c1bab63c7449338d2432e961a7, type: 3}
+  m_Name: MissionConfig_6
+  m_EditorClassIdentifier: 
+  id: 6
+  missionName: "N\xE2ng Cao Nghi\u1EC7p V\u1EE5"
+  description: "N\xE2ng c\u1EA5p 1 Gi\xE1o vi\xEAn b\u1EA5t k\u1EF3 l\xEAn c\u1EA5p
+    \u0111\u1ED9 2."
+  objective: TeacherLevel
+  objectiveAmount: 2
+  reward: diamond
+  rewardAmount: 20
